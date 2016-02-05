@@ -1,6 +1,7 @@
-# hello-world
-Learning about GitHUB
+Hello folks,
 
-Hello there, today I am learning about Github repository and various Hello World project creation.
+I didn't closed the open issues which are related to the new world.
 
-Thanks
+Please commit following changes and let me know if anything needed.
+
+..............
